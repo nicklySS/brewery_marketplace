@@ -1,6 +1,7 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/src/main/resources/application.properties
 # Editor-based HTTP Client requests
 /httpRequests/
 # Environment-dependent path to Maven home directory
